@@ -66,8 +66,11 @@
 **Additional References:**
 Google Collab from hactiv8 https://colab.research.google.com/github/FTDS-learning-materials/phase-1/blob/v2.3/w1/P1W1D1PM%20-%20Machine%20Learning%20Problem%20Framing%20-%20Training.ipynb#scrollTo=vSm5K1cawY50
 
-Kode id https://www.kode.id/
-
 ![Hugging Face Home](image/huggingface_home.png)
 ![Hugging Face EDA](image/huggingface_eda.png)
 ![Hugging Face Predict](image/huggingface_predict.png)
+
+
+## Contact
+
+For questions or collaboration, please contact Hafiz Alfariz via [LinkedIn](https://www.linkedin.com/in/hafizalfariz/) or GitHub.
